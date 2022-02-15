@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gideon_engine/static/css/main.80df85f1.chunk.css",
+    "main.js": "/gideon_engine/static/js/main.ff4bac18.chunk.js",
+    "main.js.map": "/gideon_engine/static/js/main.ff4bac18.chunk.js.map",
+    "runtime-main.js": "/gideon_engine/static/js/runtime-main.e9621aeb.js",
+    "runtime-main.js.map": "/gideon_engine/static/js/runtime-main.e9621aeb.js.map",
+    "static/js/2.ae39413b.chunk.js": "/gideon_engine/static/js/2.ae39413b.chunk.js",
+    "static/js/2.ae39413b.chunk.js.map": "/gideon_engine/static/js/2.ae39413b.chunk.js.map",
+    "index.html": "/gideon_engine/index.html",
+    "static/css/main.80df85f1.chunk.css.map": "/gideon_engine/static/css/main.80df85f1.chunk.css.map",
+    "static/js/2.ae39413b.chunk.js.LICENSE.txt": "/gideon_engine/static/js/2.ae39413b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9621aeb.js",
+    "static/js/2.ae39413b.chunk.js",
+    "static/css/main.80df85f1.chunk.css",
+    "static/js/main.ff4bac18.chunk.js"
+  ]
+}
